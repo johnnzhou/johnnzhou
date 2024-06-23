@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+Contribute to [Seattle Community Network](https://seattlecommunitynetwork.org/) and make internet available to everyone.
+
+Working on ...
+- [lcl-ping](https://github.com/Local-Connectivity-Lab/lcl-ping): a ping library written in Swift for network measurement and reachability monitoring.
+
 <!--
-**johnnzhou/johnnzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
