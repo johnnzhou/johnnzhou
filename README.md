@@ -5,7 +5,7 @@ Contribute to [Seattle Community Network](https://seattlecommunitynetwork.org/) 
 Working on ...
 - [lcl-ping](https://github.com/Local-Connectivity-Lab/lcl-ping): a ping library written in Swift for network measurement and reachability monitoring.
 - [lcl-speedtest](https://github.com/Local-Connectivity-Lab/lcl-speedtest): a swift implementation of [NDT-7](https://www.measurementlab.net/tests/ndt/ndt7/) measurement protocol.
-
+- [lcl-cli](https://github.com/Local-Connectivity-Lab/lcl-cli): a collection of measurement tools that measures network performance, latency.
 <!--
 
 Here are some ideas to get you started:
