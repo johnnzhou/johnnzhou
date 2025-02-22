@@ -3,6 +3,7 @@
 Contribute to [Seattle Community Network](https://seattlecommunitynetwork.org/) and make internet available to everyone.
 
 Working on ...
+- [lcl-websocket](https://github.com/Local-Connectivity-Lab/lcl-websocket): a websocket library, conforming to RFC 6455 (WebSocket) and RFC RFC 7692 (Compression extension for WebSocket), written in Swift.
 - [lcl-ping](https://github.com/Local-Connectivity-Lab/lcl-ping): a ping library written in Swift for network measurement and reachability monitoring.
 - [lcl-speedtest](https://github.com/Local-Connectivity-Lab/lcl-speedtest): a swift implementation of [NDT-7](https://www.measurementlab.net/tests/ndt/ndt7/) measurement protocol.
 - [lcl-cli](https://github.com/Local-Connectivity-Lab/lcl-cli): a collection of measurement tools that measures network performance, latency.
